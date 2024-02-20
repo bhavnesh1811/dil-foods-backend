@@ -1,256 +1,307 @@
 {
     "data": [
         {
+            "id": 1,
             "sales": 68,
             "revenue": 2345,
             "userActivity": 345
         },
         {
+            "id": 2,
             "sales": 92,
             "revenue": 4123,
             "userActivity": 567
         },
         {
+            "id": 3,
             "sales": 53,
             "revenue": 1789,
             "userActivity": 432
         },
         {
+            "id": 4,
             "sales": 118,
             "revenue": 5432,
             "userActivity": 789
         },
         {
+            "id": 5,
             "sales": 81,
             "revenue": 3567,
             "userActivity": 654
         },
         {
+            "id": 6,
             "sales": 105,
             "revenue": 4321,
             "userActivity": 876
         },
         {
+            "id": 7,
             "sales": 62,
             "revenue": 2890,
             "userActivity": 543
         },
         {
+            "id": 8,
             "sales": 74,
             "revenue": 3210,
             "userActivity": 678
         },
         {
+            "id": 9,
             "sales": 89,
             "revenue": 3876,
             "userActivity": 987
         },
         {
+            "id": 10,
             "sales": 72,
             "revenue": 2987,
             "userActivity": 765
         },
         {
+            "id": 11,
             "sales": 97,
             "revenue": 4098,
             "userActivity": 890
         },
         {
+            "id": 12,
             "sales": 45,
             "revenue": 1567,
             "userActivity": 456
         },
         {
+            "id": 13,
             "sales": 83,
             "revenue": 3654,
             "userActivity": 654
         },
         {
+            "id": 14,
             "sales": 110,
             "revenue": 4756,
             "userActivity": 876
         },
         {
+            "id": 15,
             "sales": 56,
             "revenue": 2000,
             "userActivity": 543
         },
         {
+            "id": 16,
             "sales": 68,
             "revenue": 3000,
             "userActivity": 678
         },
         {
+            "id": 17,
             "sales": 101,
             "revenue": 4200,
             "userActivity": 987
         },
         {
+            "id": 18,
             "sales": 49,
             "revenue": 1850,
             "userActivity": 765
         },
         {
+            "id": 19,
             "sales": 79,
             "revenue": 3400,
             "userActivity": 890
         },
         {
+            "id": 20,
             "sales": 65,
             "revenue": 2750,
             "userActivity": 456
         },
         {
+            "id": 21,
             "sales": 94,
             "revenue": 3900,
             "userActivity": 654
         },
         {
+            "id": 22,
             "sales": 120,
             "revenue": 5000,
             "userActivity": 876
         },
         {
+            "id": 23,
             "sales": 60,
             "revenue": 2500,
             "userActivity": 543
         },
         {
+            "id": 24,
             "sales": 75,
             "revenue": 3250,
             "userActivity": 678
         },
         {
+            "id": 25,
             "sales": 88,
             "revenue": 3800,
             "userActivity": 987
         },
         {
+            "id": 26,
             "sales": 70,
             "revenue": 2950,
             "userActivity": 765
         },
         {
+            "id": 27,
             "sales": 99,
             "revenue": 4125,
             "userActivity": 890
         },
         {
+            "id": 28,
             "sales": 58,
             "revenue": 2100,
             "userActivity": 456
         },
         {
+            "id": 29,
             "sales": 85,
             "revenue": 3725,
             "userActivity": 654
         },
         {
+            "id": 30,
             "sales": 112,
             "revenue": 4900,
             "userActivity": 876
         },
         {
+            "id": 31,
             "sales": 51,
             "revenue": 1950,
             "userActivity": 543
         },
         {
+            "id": 32,
             "sales": 77,
             "revenue": 3333,
             "userActivity": 678
         },
         {
+            "id": 33,
             "sales": 103,
             "revenue": 4300,
             "userActivity": 987
         },
         {
+            "id": 34,
             "sales": 47,
             "revenue": 1700,
             "userActivity": 765
         },
         {
+            "id": 35,
             "sales": 78,
             "revenue": 3350,
             "userActivity": 890
         },
         {
+            "id": 36,
             "sales": 64,
             "revenue": 2700,
             "userActivity": 456
         },
         {
+            "id": 37,
             "sales": 91,
             "revenue": 4050,
             "userActivity": 654
         },
         {
+            "id": 38,
             "sales": 115,
             "revenue": 4800,
             "userActivity": 876
         },
         {
+            "id": 39,
             "sales": 55,
             "revenue": 2200,
             "userActivity": 543
         },
         {
+            "id": 40,
             "sales": 71,
             "revenue": 3050,
             "userActivity": 678
         },
         {
+            "id": 41,
             "sales": 87,
             "revenue": 3750,
             "userActivity": 987
         },
         {
+            "id": 42,
             "sales": 66,
             "revenue": 2850,
             "userActivity": 765
         },
         {
+            "id": 43,
             "sales": 98,
             "revenue": 4150,
             "userActivity": 890
         },
         {
+            "id": 44,
             "sales": 59,
             "revenue": 2150,
             "userActivity": 456
         },
         {
+            "id": 45,
             "sales": 84,
             "revenue": 3675,
             "userActivity": 654
         },
         {
+            "id": 46,
             "sales": 108,
             "revenue": 4650,
             "userActivity": 876
         },
         {
+            "id": 47,
             "sales": 50,
             "revenue": 1900,
             "userActivity": 543
         },
         {
+            "id": 48,
             "sales": 80,
             "revenue": 3450,
             "userActivity": 678
         },
         {
+            "id": 49,
             "sales": 102,
             "revenue": 4250,
             "userActivity": 987
         },
         {
+            "id": 50,
             "sales": 48,
             "revenue": 1750,
             "userActivity": 765
         },
         {
+            "id": 51,
             "sales": 76,
             "revenue": 3300,
             "userActivity": 890
