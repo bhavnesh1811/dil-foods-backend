@@ -411,175 +411,201 @@
 
   "dummyData": [
     {
-      "date": "February 2022",
+      "id": 1,
+      "date": "Feb 1, 2022",
       "onlineStoreSessions": 30562,
       "netReturnValue": "3800.25",
       "totalOrders": 7234,
       "conversionRate": "4.68%"
     },
     {
-      "date": "March 2022",
+      "id": 2,
+      "date": "Mar 1, 2022",
       "onlineStoreSessions": 43621,
       "netReturnValue": "-2956.10",
       "totalOrders": 8271,
       "conversionRate": "7.92%"
     },
     {
-      "date": "April 2022",
+      "id": 3,
+      "date": "Apr 1, 2022",
       "onlineStoreSessions": 54192,
       "netReturnValue": "1124.89",
       "totalOrders": 10245,
       "conversionRate": "2.81%"
     },
     {
-      "date": "May 2022",
+      "id": 4,
+      "date": "May 1, 2022",
       "onlineStoreSessions": 37892,
       "netReturnValue": "-4203.75",
       "totalOrders": 6578,
       "conversionRate": "5.16%"
     },
     {
-      "date": "June 2022",
+      "id": 5,
+      "date": "Jun 1, 2022",
       "onlineStoreSessions": 48755,
       "netReturnValue": "2955.32",
       "totalOrders": 8742,
       "conversionRate": "8.93%"
     },
     {
-      "date": "July 2022",
+      "id": 6,
+      "date": "Jul 1, 2022",
       "onlineStoreSessions": 50234,
       "netReturnValue": "-1872.46",
       "totalOrders": 9436,
       "conversionRate": "3.78%"
     },
     {
-      "date": "August 2022",
+      "id": 7,
+      "date": "Aug 1, 2022",
       "onlineStoreSessions": 41978,
       "netReturnValue": "4131.12",
       "totalOrders": 7890,
       "conversionRate": "6.72%"
     },
     {
-      "date": "September 2022",
+      "id": 8,
+
+      "date": "Sep 1, 2022",
       "onlineStoreSessions": 34567,
       "netReturnValue": "-1332.75",
       "totalOrders": 6423,
       "conversionRate": "4.20%"
     },
     {
-      "date": "October 2022",
+      "id": 9,
+      "date": "Oct 1, 2022",
       "onlineStoreSessions": 46789,
       "netReturnValue": "2567.98",
       "totalOrders": 9034,
       "conversionRate": "7.05%"
     },
     {
-      "date": "November 2022",
+      "id": 10,
+      "date": "Nov 1, 2022",
       "onlineStoreSessions": 39543,
       "netReturnValue": "-3150.64",
       "totalOrders": 7245,
       "conversionRate": "5.89%"
     },
     {
-      "date": "December 2022",
+      "id": 11,
+      "date": "Dec 1, 2022",
       "onlineStoreSessions": 51236,
       "netReturnValue": "1876.30",
       "totalOrders": 9867,
       "conversionRate": "3.22%"
     },
     {
-      "date": "January 2023",
+      "id": 12,
+      "date": "Jan 1, 2023",
       "onlineStoreSessions": 58721,
       "netReturnValue": "-2398.45",
       "totalOrders": 11089,
       "conversionRate": "6.44%"
     },
     {
-      "date": "February 2023",
+      "id": 13,
+      "date": "Feb 1, 2023",
       "onlineStoreSessions": 45329,
       "netReturnValue": "3410.78",
       "totalOrders": 8654,
       "conversionRate": "8.37%"
     },
     {
-      "date": "March 2023",
+      "id": 14,
+      "date": "Mar 1, 2023",
       "onlineStoreSessions": 49123,
       "netReturnValue": "-1820.65",
       "totalOrders": 9278,
       "conversionRate": "4.92%"
     },
     {
-      "date": "April 2023",
+      "id": 15,
+      "date": "Apr 1, 2023",
       "onlineStoreSessions": 57239,
       "netReturnValue": "2956.11",
       "totalOrders": 10876,
       "conversionRate": "7.79%"
     },
     {
-      "date": "May 2023",
+      "id": 16,
+      "date": "May 1, 2023",
       "onlineStoreSessions": 41234,
       "netReturnValue": "-3476.88",
       "totalOrders": 7654,
       "conversionRate": "5.34%"
     },
     {
-      "date": "June 2023",
+      "id": 17,
+      "date": "Jun 1, 2023",
       "onlineStoreSessions": 53678,
       "netReturnValue": "2134.45",
       "totalOrders": 9321,
       "conversionRate": "6.15%"
     },
     {
-      "date": "July 2023",
+      "id": 18,
+      "date": "Jul 1, 2023",
       "onlineStoreSessions": 59432,
       "netReturnValue": "-1982.34",
       "totalOrders": 11543,
       "conversionRate": "8.92%"
     },
     {
-      "date": "August 2023",
+      "id": 19,
+      "date": "Aug 1, 2023",
       "onlineStoreSessions": 47569,
       "netReturnValue": "3947.62",
       "totalOrders": 9887,
       "conversionRate": "3.68%"
     },
     {
-      "date": "September 2023",
+      "id": 20,
+      "date": "Sep 1, 2023",
       "onlineStoreSessions": 39278,
       "netReturnValue": "-1523.90",
       "totalOrders": 7234,
       "conversionRate": "6.79%"
     },
     {
-      "date": "October 2023",
+      "id": 21,
+      "date": "Oct 1, 2023",
       "onlineStoreSessions": 51876,
       "netReturnValue": "2710.35",
       "totalOrders": 10654,
       "conversionRate": "5.12%"
     },
     {
-      "date": "November 2023",
+      "id": 22,
+      "date": "Nov 1, 2023",
       "onlineStoreSessions": 45689,
       "netReturnValue": "-2856.70",
       "totalOrders": 8543,
       "conversionRate": "7.21%"
     },
     {
-      "date": "December 2023",
+      "id": 23,
+      "date": "Dec 1, 2023",
       "onlineStoreSessions": 61234,
       "netReturnValue": "3245.88",
       "totalOrders": 12098,
       "conversionRate": "6.44%"
     },
     {
-      "date": "January 2024",
+      "id": 24,
+      "date": "Jan 1, 2024",
       "onlineStoreSessions": 58723,
       "netReturnValue": "-2147.33",
       "totalOrders": 11234,
       "conversionRate": "4.98%"
     },
     {
-      "date": "February 2024",
+      "id": 25,
+      "date": "Feb 1, 2024",
       "onlineStoreSessions": 54321,
       "netReturnValue": "2598.40",
       "totalOrders": 10123,
