@@ -418,8 +418,8 @@
       "totalOrders": 7234,
       "conversionRate": "4.68",
       "onlineStoreSessions1": 25155,
-      "netReturnValue1": "3700.75",
-      "totalOrders1": 7200,
+      "netReturnValue1": "3005.75",
+      "totalOrders1": 6500,
       "conversionRate1": "4.70"
     },
     {
@@ -430,8 +430,8 @@
       "totalOrders": 8271,
       "conversionRate": "7.92",
       "onlineStoreSessions1": 39547,
-      "netReturnValue1": "-2900.50",
-      "totalOrders1": 8300,
+      "netReturnValue1": "-3306.50",
+      "totalOrders1": 7500,
       "conversionRate1": "7.80"
     },
     {
@@ -442,8 +442,8 @@
       "totalOrders": 10245,
       "conversionRate": "2.81",
       "onlineStoreSessions1": 50121,
-      "netReturnValue1": "1100.00",
-      "totalOrders1": 10200,
+      "netReturnValue1": "1545.00",
+      "totalOrders1": 11300,
       "conversionRate1": "2.75"
     },
     {
@@ -454,8 +454,8 @@
       "totalOrders": 6578,
       "conversionRate": "5.16",
       "onlineStoreSessions1": 33654,
-      "netReturnValue1": "-4150.00",
-      "totalOrders1": 6600,
+      "netReturnValue1": "-4010.00",
+      "totalOrders1": 5648,
       "conversionRate1": "5.10"
     },
     {
@@ -466,8 +466,8 @@
       "totalOrders": 8742,
       "conversionRate": "8.93",
       "onlineStoreSessions1": 45584,
-      "netReturnValue1": "3000.00",
-      "totalOrders1": 8700,
+      "netReturnValue1": "3501.00",
+      "totalOrders1": 6000,
       "conversionRate1": "9.00"
     },
     {
@@ -478,8 +478,8 @@
       "totalOrders": 9436,
       "conversionRate": "3.78",
       "onlineStoreSessions1": 60015,
-      "netReturnValue1": "-1900.00",
-      "totalOrders1": 9400,
+      "netReturnValue1": "-1533.00",
+      "totalOrders1": 10450,
       "conversionRate1": "3.85"
     },
     {
@@ -490,8 +490,8 @@
       "totalOrders": 7890,
       "conversionRate": "6.72",
       "onlineStoreSessions1": 48222,
-      "netReturnValue1": "4100.00",
-      "totalOrders1": 7900,
+      "netReturnValue1": "4624.00",
+      "totalOrders1": 8645,
       "conversionRate1": "6.65"
     },
     {
@@ -502,8 +502,8 @@
       "totalOrders": 6423,
       "conversionRate": "4.20",
       "onlineStoreSessions1": 44511,
-      "netReturnValue1": "-1350.00",
-      "totalOrders1": 6400,
+      "netReturnValue1": "-266.00",
+      "totalOrders1": 7846,
       "conversionRate1": "4.15"
     },
     {
@@ -514,9 +514,9 @@
       "totalOrders": 9034,
       "conversionRate": "7.05",
       "onlineStoreSessions1": 40782,
-      "netReturnValue1": "2600.00",
-      "totalOrders1": 9000,
-      "conversionRate1": "7.10"
+      "netReturnValue1": "1500.00",
+      "totalOrders1": 8356,
+      "conversionRate1": "7.82"
     },
     {
       "id": 10,
@@ -526,56 +526,56 @@
       "totalOrders": 7245,
       "conversionRate": "5.89",
       "onlineStoreSessions1": 63024,
-      "netReturnValue1": "-3100.00",
-      "totalOrders1": 7200,
-      "conversionRate1": "5.95"
+      "netReturnValue1": "435.00",
+      "totalOrders1": 9455,
+      "conversionRate1": "8.95"
     },
     {
       "id": 11,
       "date": "Dec 1, 2022",
       "onlineStoreSessions": 51236,
       "netReturnValue": "1876.30",
-      "totalOrders": 9867,
+      "totalOrders": 6584,
       "conversionRate": "3.22",
       "onlineStoreSessions1": 35465,
-      "netReturnValue1": "1850.00",
-      "totalOrders1": 9900,
+      "netReturnValue1": "1021.00",
+      "totalOrders1": 4587,
       "conversionRate1": "3.18"
     },
     {
       "id": 12,
       "date": "Jan 1, 2023",
       "onlineStoreSessions": 58721,
-      "netReturnValue": "-2398.45",
+      "netReturnValue": "2398.45",
       "totalOrders": 11089,
       "conversionRate": "6.44",
       "onlineStoreSessions1": 53654,
-      "netReturnValue1": "-2400.00",
+      "netReturnValue1": "1654.00",
       "totalOrders1": 11100,
-      "conversionRate1": "6.40"
+      "conversionRate1": "3.40"
     },
     {
       "id": 13,
       "date": "Feb 1, 2023",
       "onlineStoreSessions": 45329,
       "netReturnValue": "3410.78",
-      "totalOrders": 8654,
+      "totalOrders": 6844,
       "conversionRate": "8.37",
       "onlineStoreSessions1": 50145,
-      "netReturnValue1": "3400.00",
+      "netReturnValue1": "6001.78",
       "totalOrders1": 8600,
-      "conversionRate1": "8.30"
+      "conversionRate1": "9.30"
     },
     {
       "id": 14,
       "date": "Mar 1, 2023",
       "onlineStoreSessions": 49123,
       "netReturnValue": "-1820.65",
-      "totalOrders": 9278,
+      "totalOrders": 6648,
       "conversionRate": "4.92",
       "onlineStoreSessions1": 44751,
-      "netReturnValue1": "-1800.00",
-      "totalOrders1": 9300,
+      "netReturnValue1": "-3566.00",
+      "totalOrders1": 4588,
       "conversionRate1": "4.95"
     },
     {
@@ -583,12 +583,12 @@
       "date": "Apr 1, 2023",
       "onlineStoreSessions": 57239,
       "netReturnValue": "2956.11",
-      "totalOrders": 10876,
+      "totalOrders": 9876,
       "conversionRate": "7.79",
       "onlineStoreSessions1": 45645,
-      "netReturnValue1": "3000.00",
-      "totalOrders1": 10900,
-      "conversionRate1": "7.85"
+      "netReturnValue1": "6544.00",
+      "totalOrders1": 6844,
+      "conversionRate1": "4.85"
     },
     {
       "id": 16,
@@ -597,10 +597,10 @@
       "netReturnValue": "-3476.88",
       "totalOrders": 7654,
       "conversionRate": "5.34",
-      "onlineStoreSessions1": 39574,
-      "netReturnValue1": "-3500.00",
-      "totalOrders1": 7600,
-      "conversionRate1": "5.28"
+      "onlineStoreSessions1": 35444,
+      "netReturnValue1": "-5558.00",
+      "totalOrders1": 6477,
+      "conversionRate1": "2.28"
     },
     {
       "id": 17,
@@ -610,17 +610,17 @@
       "totalOrders": 9321,
       "conversionRate": "6.15",
       "onlineStoreSessions1": 47586,
-      "netReturnValue1": "2100.00",
-      "totalOrders1": 9300,
-      "conversionRate1": "6.20"
+      "netReturnValue1": "6547.00",
+      "totalOrders1": 7845,
+      "conversionRate1": "4.20"
     },
     {
       "id": 18,
       "date": "Jul 1, 2023",
       "onlineStoreSessions": 59432,
       "netReturnValue": "-1982.34",
-      "totalOrders": 11543,
-      "conversionRate": "8.92",
+      "totalOrders": 9455,
+      "conversionRate": "3.92",
       "onlineStoreSessions1": 65874,
       "netReturnValue1": "-2000.00",
       "totalOrders1": 11500,
@@ -634,9 +634,9 @@
       "totalOrders": 9887,
       "conversionRate": "3.68",
       "onlineStoreSessions1": 41874,
-      "netReturnValue1": "3900.00",
-      "totalOrders1": 9900,
-      "conversionRate1": "3.72"
+      "netReturnValue1": "2456.00",
+      "totalOrders1": 7874,
+      "conversionRate1": "1.72"
     },
     {
       "id": 20,
@@ -646,9 +646,9 @@
       "totalOrders": 7234,
       "conversionRate": "6.79",
       "onlineStoreSessions1": 45248,
-      "netReturnValue1": "-1500.00",
-      "totalOrders1": 7200,
-      "conversionRate1": "6.85"
+      "netReturnValue1": "-3302.00",
+      "totalOrders1": 8422,
+      "conversionRate1": "4.85"
     },
     {
       "id": 21,
@@ -658,33 +658,33 @@
       "totalOrders": 10654,
       "conversionRate": "5.12",
       "onlineStoreSessions1": 36457,
-      "netReturnValue1": "2700.00",
-      "totalOrders1": 10600,
-      "conversionRate1": "5.08"
+      "netReturnValue1": "1270.00",
+      "totalOrders1": 6455,
+      "conversionRate1": "3.08"
     },
     {
       "id": 22,
       "date": "Nov 1, 2023",
       "onlineStoreSessions": 45689,
       "netReturnValue": "-2856.70",
-      "totalOrders": 8543,
-      "conversionRate": "7.21",
+      "totalOrders": 6411,
+      "conversionRate": "5.21",
       "onlineStoreSessions1": 49065,
-      "netReturnValue1": "-2800.00",
+      "netReturnValue1": "-5246.00",
       "totalOrders1": 8500,
-      "conversionRate1": "7.15"
+      "conversionRate1": "8.15"
     },
     {
       "id": 23,
       "date": "Dec 1, 2023",
       "onlineStoreSessions": 61234,
       "netReturnValue": "3245.88",
-      "totalOrders": 12098,
-      "conversionRate": "6.44",
+      "totalOrders": 7845,
+      "conversionRate": "1.44",
       "onlineStoreSessions1": 65548,
-      "netReturnValue1": "3200.00",
-      "totalOrders1": 12100,
-      "conversionRate1": "6.48"
+      "netReturnValue1": "1547.00",
+      "totalOrders1": 10265,
+      "conversionRate1": "8.48"
     },
     {
       "id": 24,
@@ -694,20 +694,20 @@
       "totalOrders": 11234,
       "conversionRate": "4.98",
       "onlineStoreSessions1": 51457,
-      "netReturnValue1": "-2100.00",
-      "totalOrders1": 11200,
-      "conversionRate1": "5.05"
+      "netReturnValue1": "1485.00",
+      "totalOrders1": 7854,
+      "conversionRate1": "2.05"
     },
     {
       "id": 25,
       "date": "Feb 1, 2024",
       "onlineStoreSessions": 54321,
       "netReturnValue": "2598.40",
-      "totalOrders": 10123,
-      "conversionRate": "8.15",
+      "totalOrders": 6123,
+      "conversionRate": "6.15",
       "onlineStoreSessions1": 59004,
-      "netReturnValue1": "2600.00",
-      "totalOrders1": 10100,
+      "netReturnValue1": "502.00",
+      "totalOrders1": 7856,
       "conversionRate1": "8.10"
     }
   ]
