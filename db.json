@@ -412,7 +412,8 @@
   "dummyData": [
     {
       "id": 1,
-      "date": "Feb 1, 2022",
+      "date": "Feb 1, 2021",
+      "date1": "Feb 1, 2022",
       "onlineStoreSessions": 30562,
       "netReturnValue": "3800.25",
       "totalOrders": 7234,
@@ -424,7 +425,8 @@
     },
     {
       "id": 2,
-      "date": "Mar 1, 2022",
+      "date": "Mar 1, 2021",
+      "date1": "Mar 1, 2022",
       "onlineStoreSessions": 43621,
       "netReturnValue": "2956.10",
       "totalOrders": 8271,
@@ -436,7 +438,8 @@
     },
     {
       "id": 3,
-      "date": "Apr 1, 2022",
+      "date": "Apr 1, 2021",
+      "date1": "Apr 1, 2022",
       "onlineStoreSessions": 54192,
       "netReturnValue": "2124.89",
       "totalOrders": 10245,
@@ -448,7 +451,8 @@
     },
     {
       "id": 4,
-      "date": "May 1, 2022",
+      "date": "May 1, 2021",
+      "date1": "May 1, 2022",
       "onlineStoreSessions": 37892,
       "netReturnValue": "3329.75",
       "totalOrders": 6578,
@@ -460,7 +464,8 @@
     },
     {
       "id": 5,
-      "date": "Jun 1, 2022",
+      "date": "Jun 1, 2021",
+      "date1": "Jun 1, 2022",
       "onlineStoreSessions": 48755,
       "netReturnValue": "2955.32",
       "totalOrders": 8742,
@@ -472,7 +477,8 @@
     },
     {
       "id": 6,
-      "date": "Jul 1, 2022",
+      "date": "Jul 1, 2021",
+      "date1": "Jul 1, 2022",
       "onlineStoreSessions": 50234,
       "netReturnValue": "1872.46",
       "totalOrders": 9436,
@@ -484,7 +490,8 @@
     },
     {
       "id": 7,
-      "date": "Aug 1, 2022",
+      "date": "Aug 1, 2021",
+      "date1": "Aug 1, 2022",
       "onlineStoreSessions": 41978,
       "netReturnValue": "4131.12",
       "totalOrders": 7890,
@@ -496,7 +503,8 @@
     },
     {
       "id": 8,
-      "date": "Sep 1, 2022",
+      "date": "Sep 1, 2021",
+      "date1": "Sep 1, 2022",
       "onlineStoreSessions": 34567,
       "netReturnValue": "1332.75",
       "totalOrders": 6423,
@@ -508,7 +516,8 @@
     },
     {
       "id": 9,
-      "date": "Oct 1, 2022",
+      "date": "Oct 1, 2021",
+      "date1": "Oct 1, 2022",
       "onlineStoreSessions": 46789,
       "netReturnValue": "2567.98",
       "totalOrders": 9034,
@@ -520,7 +529,8 @@
     },
     {
       "id": 10,
-      "date": "Nov 1, 2022",
+      "date": "Nov 1, 2021",
+      "date1": "Nov 1, 2022",
       "onlineStoreSessions": 39543,
       "netReturnValue": "3150.64",
       "totalOrders": 7245,
@@ -532,7 +542,8 @@
     },
     {
       "id": 11,
-      "date": "Dec 1, 2022",
+      "date": "Dec 1, 2021",
+      "date1": "Dec 1, 2022",
       "onlineStoreSessions": 51236,
       "netReturnValue": "1876.30",
       "totalOrders": 6584,
@@ -544,7 +555,8 @@
     },
     {
       "id": 12,
-      "date": "Jan 1, 2023",
+      "date": "Jan 1, 2022",
+      "date1": "Jan 1, 2023",
       "onlineStoreSessions": 58721,
       "netReturnValue": "2398.45",
       "totalOrders": 11089,
@@ -556,7 +568,8 @@
     },
     {
       "id": 13,
-      "date": "Feb 1, 2023",
+      "date": "Feb 1, 2022",
+      "date1": "Feb 1, 2023",
       "onlineStoreSessions": 45329,
       "netReturnValue": "3410.78",
       "totalOrders": 6844,
@@ -568,7 +581,8 @@
     },
     {
       "id": 14,
-      "date": "Mar 1, 2023",
+      "date": "Mar 1, 2022",
+      "date1": "Mar 1, 2023",
       "onlineStoreSessions": 49123,
       "netReturnValue": "1820.65",
       "totalOrders": 6648,
@@ -580,7 +594,8 @@
     },
     {
       "id": 15,
-      "date": "Apr 1, 2023",
+      "date": "Apr 1, 2022",
+      "date1": "Apr 1, 2023",
       "onlineStoreSessions": 57239,
       "netReturnValue": "2956.11",
       "totalOrders": 9876,
@@ -592,7 +607,8 @@
     },
     {
       "id": 16,
-      "date": "May 1, 2023",
+      "date": "May 1, 2022",
+      "date1": "May 1, 2023",
       "onlineStoreSessions": 41234,
       "netReturnValue": "3476.88",
       "totalOrders": 7654,
@@ -604,7 +620,8 @@
     },
     {
       "id": 17,
-      "date": "Jun 1, 2023",
+      "date": "Jun 1, 2022",
+      "date1": "Jun 1, 2023",
       "onlineStoreSessions": 53678,
       "netReturnValue": "2134.45",
       "totalOrders": 9321,
@@ -616,7 +633,8 @@
     },
     {
       "id": 18,
-      "date": "Jul 1, 2023",
+      "date": "Jul 1, 2022",
+      "date1": "Jul 1, 2023",
       "onlineStoreSessions": 59432,
       "netReturnValue": "1982.34",
       "totalOrders": 9455,
@@ -628,7 +646,8 @@
     },
     {
       "id": 19,
-      "date": "Aug 1, 2023",
+      "date": "Aug 1, 2022",
+      "date1": "Aug 1, 2023",
       "onlineStoreSessions": 47569,
       "netReturnValue": "3947.62",
       "totalOrders": 9887,
@@ -640,7 +659,8 @@
     },
     {
       "id": 20,
-      "date": "Sep 1, 2023",
+      "date": "Sep 1, 2022",
+      "date1": "Sep 1, 2023",
       "onlineStoreSessions": 39278,
       "netReturnValue": "1523.90",
       "totalOrders": 7234,
@@ -652,7 +672,8 @@
     },
     {
       "id": 21,
-      "date": "Oct 1, 2023",
+      "date": "Oct 1, 2022",
+      "date1": "Oct 1, 2023",
       "onlineStoreSessions": 51876,
       "netReturnValue": "2710.35",
       "totalOrders": 8944,
@@ -664,7 +685,8 @@
     },
     {
       "id": 22,
-      "date": "Nov 1, 2023",
+      "date": "Nov 1, 2022",
+      "date1": "Nov 1, 2023",
       "onlineStoreSessions": 45689,
       "netReturnValue": "2856.70",
       "totalOrders": 6411,
@@ -676,7 +698,8 @@
     },
     {
       "id": 23,
-      "date": "Dec 1, 2023",
+      "date": "Dec 1, 2022",
+      "date1": "Dec 1, 2023",
       "onlineStoreSessions": 61234,
       "netReturnValue": "3245.88",
       "totalOrders": 7845,
@@ -688,7 +711,8 @@
     },
     {
       "id": 24,
-      "date": "Jan 1, 2024",
+      "date": "Jan 1, 2023",
+      "date1": "Jan 1, 2024",
       "onlineStoreSessions": 58723,
       "netReturnValue": "2147.33",
       "totalOrders": 8654,
@@ -700,7 +724,8 @@
     },
     {
       "id": 25,
-      "date": "Feb 1, 2024",
+      "date": "Feb 1, 2023",
+      "date1": "Feb 1, 2024",
       "onlineStoreSessions": 54321,
       "netReturnValue": "2598.40",
       "totalOrders": 6123,
@@ -711,5 +736,4 @@
       "conversionRate1": "8.10"
     }
   ]
-  
 }
